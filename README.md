@@ -1,6 +1,6 @@
 # Hi, I'm Nitish Jagadeskumar 👋
 
-in/nitishjagadeskumar
+
 
 I am a **Quality Assurance Tester** with experience in **Manual and Automation Testing**.
 I have hands-on experience working in the **Banking domain** and testing **web-based applications**

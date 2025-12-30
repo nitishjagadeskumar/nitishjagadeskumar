@@ -9,6 +9,28 @@ and ensuring reliable user experiences.
 
 ---
 
+## 💼 Work Experience
+
+### 🔹 Quality Assurance Tester  
+**Cognizant** | *Sep 2022 – Aug 2024*  
+
+**Domain:** Banking (IT Industry)
+
+- Involved in **test planning, test design, execution, defect management, and test closure**
+- Designed and executed **high-level and detailed test cases** based on business requirements
+- Performed **functional, regression, smoke, and sanity testing**
+- Prepared **test data** for multiple test scenarios
+- Logged, tracked, and analyzed defects using **JIRA** with proper severity and priority
+- Coordinated with **business analysts and stakeholders** to clarify requirements and identify gaps
+- Supported **UAT execution** and validated end-to-end business workflows
+- Maintained **daily execution status reports (DSR)** and defect tracker reports
+- Worked in an **Agile/Scrum environment**, participating in daily stand-ups and sprint reviews
+
+**Tools & Technologies:**  
+Mainframe, CBG02MT Environment, JIRA, Excel, Core Java
+
+---
+
 ## 🧪 QA Skills
 
 ### 📝 Manual Testing
@@ -35,28 +57,6 @@ and ensuring reliable user experiences.
 - JIRA
 - Git & GitHub
 - Agile / Scrum
-
----
-
-## 💼 Work Experience
-
-### 🔹 Quality Assurance Tester  
-**Cognizant** | *Sep 2022 – Aug 2024*  
-
-**Domain:** Banking (IT Industry)
-
-- Involved in **test planning, test design, execution, defect management, and test closure**
-- Designed and executed **high-level and detailed test cases** based on business requirements
-- Performed **functional, regression, smoke, and sanity testing**
-- Prepared **test data** for multiple test scenarios
-- Logged, tracked, and analyzed defects using **JIRA** with proper severity and priority
-- Coordinated with **business analysts and stakeholders** to clarify requirements and identify gaps
-- Supported **UAT execution** and validated end-to-end business workflows
-- Maintained **daily execution status reports (DSR)** and defect tracker reports
-- Worked in an **Agile/Scrum environment**, participating in daily stand-ups and sprint reviews
-
-**Tools & Technologies:**  
-Mainframe, CBG02MT Environment, JIRA, Excel, Core Java
 
 ---
 
